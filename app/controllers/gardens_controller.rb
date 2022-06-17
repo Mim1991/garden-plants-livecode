@@ -8,7 +8,6 @@ class GardensController < ApplicationController
 
   # GET /gardens/1 or /gardens/1.json
   def show
-    @plant = Plant.new
   end
 
   # GET /gardens/new
