@@ -1,0 +1,26 @@
+.plant-info{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 24px;
+}
+
+.plant-container{
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 24px;
+}
+
+.plant-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+.plant-form{
+  width: 50%;
+}
